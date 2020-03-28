@@ -1,5 +1,4 @@
 #Equipo 3 practica 9
-import time
 import os
 import ntplib
 import hashlib
